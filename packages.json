@@ -2,13 +2,15 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"description": "Fork of DR's Colour Schemes package",
 			"details": "https://github.com/curtiszimmerman/colour-themes",
+			"name": "Curtis Loves Forking Colours!"
 			"releases": [
 				{
 					"sublime_text": "*",
 					"platforms": ["linux"],
 					"tags": true,
-					"url": "https://github.com/curtiszimmerman/colour-themes/blob/master/CurtisColours.sublime-package"
+					"url": "https://github.com/curtiszimmerman/colour-themes/blob/master/colour-themes.sublime-package"
 				}
 			]
 		}
