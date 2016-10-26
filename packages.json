@@ -4,7 +4,7 @@
 		{
 			"description": "Fork of DR's Colour Schemes package",
 			"details": "https://github.com/curtiszimmerman/colour-themes",
-			"name": "Curtis Loves Forking Colours!"
+			"name": "Curtis Loves Forking Colours!",
 			"releases": [
 				{
 					"sublime_text": "*",
