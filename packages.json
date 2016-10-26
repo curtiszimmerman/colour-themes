@@ -1,0 +1,15 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"details": "https://github.com/curtiszimmerman/colour-themes",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["linux"],
+					"tags": true
+				}
+			]
+		}
+	]
+}
