@@ -10,7 +10,8 @@
 					"sublime_text": "*",
 					"platforms": ["linux"],
 					"tags": true,
-					"url": "https://github.com/curtiszimmerman/colour-themes/blob/master/colour-themes.sublime-package"
+					"url": "https://github.com/curtiszimmerman/colour-themes/blob/master/curtis.sublime-package",
+					"version": "0.0.6"
 				}
 			]
 		}
