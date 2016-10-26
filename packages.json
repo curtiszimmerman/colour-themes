@@ -6,7 +6,11 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"platforms": ["linux"],
+					"platforms": [
+						"linux": {
+							"url": "https://github.com/curtiszimmerman/colour-themes/blob/master/CurtisColours.sublime-package"
+						}
+					],
 					"tags": true
 				}
 			]
